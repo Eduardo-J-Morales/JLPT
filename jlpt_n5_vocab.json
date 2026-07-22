@@ -1,0 +1,4570 @@
+﻿[
+    {
+        "word":  "あげる",
+        "meaning":  [
+                        "to give"
+                    ],
+        "pronunciation":  "あげる"
+    },
+    {
+        "word":  "あそこ",
+        "meaning":  [
+                        "there",
+                        "over there"
+                    ],
+        "pronunciation":  "あそこ"
+    },
+    {
+        "word":  "あなた",
+        "meaning":  [
+                        "you"
+                    ],
+        "pronunciation":  "あなた"
+    },
+    {
+        "word":  "アパート",
+        "meaning":  [
+                        "apartment"
+                    ],
+        "pronunciation":  "あぱーと"
+    },
+    {
+        "word":  "いい",
+        "meaning":  [
+                        "good"
+                    ],
+        "pronunciation":  "いい"
+    },
+    {
+        "word":  "いつも",
+        "meaning":  [
+                        "always",
+                        "usually"
+                    ],
+        "pronunciation":  "いつも"
+    },
+    {
+        "word":  "インターホン",
+        "meaning":  [
+                        "intercom",
+                        "interphone"
+                    ],
+        "pronunciation":  "いんたあほん"
+    },
+    {
+        "word":  "エレガント",
+        "meaning":  [
+                        "elegant"
+                    ],
+        "pronunciation":  "えれがんと"
+    },
+    {
+        "word":  "エレベータ",
+        "meaning":  [
+                        "elevator"
+                    ],
+        "pronunciation":  "えれべーた"
+    },
+    {
+        "word":  "エンジニア",
+        "meaning":  [
+                        "engineer"
+                    ],
+        "pronunciation":  "えんじにあ"
+    },
+    {
+        "word":  "オープン",
+        "meaning":  [
+                        "opening (a new store",
+                        "golf course",
+                        "runway",
+                        "etc.)"
+                    ],
+        "pronunciation":  "おーぷん"
+    },
+    {
+        "word":  "オレンジ",
+        "meaning":  [
+                        "orange (fruit",
+                        "colour)"
+                    ],
+        "pronunciation":  "おれんじ"
+    },
+    {
+        "word":  "オンライン",
+        "meaning":  [
+                        "online"
+                    ],
+        "pronunciation":  "おんらいん"
+    },
+    {
+        "word":  "お兄さん",
+        "meaning":  [
+                        "elder brother"
+                    ],
+        "pronunciation":  "おにいさん"
+    },
+    {
+        "word":  "お姉さん",
+        "meaning":  [
+                        "elder sister"
+                    ],
+        "pronunciation":  "おねえさん"
+    },
+    {
+        "word":  "お巡りさん",
+        "meaning":  [
+                        "police officer"
+                    ],
+        "pronunciation":  "おまわりさん"
+    },
+    {
+        "word":  "お弁当",
+        "meaning":  [
+                        "Japanese lunch box"
+                    ],
+        "pronunciation":  "おべんとう"
+    },
+    {
+        "word":  "お手洗い",
+        "meaning":  [
+                        "toilet",
+                        "restroom"
+                    ],
+        "pronunciation":  "おてあらい"
+    },
+    {
+        "word":  "お母さん",
+        "meaning":  [
+                        "mother"
+                    ],
+        "pronunciation":  "おかあさん"
+    },
+    {
+        "word":  "お父さん",
+        "meaning":  [
+                        "father",
+                        "dad"
+                    ],
+        "pronunciation":  "おとうさん"
+    },
+    {
+        "word":  "お皿",
+        "meaning":  [
+                        "plate",
+                        "dish"
+                    ],
+        "pronunciation":  "おさら"
+    },
+    {
+        "word":  "お祖母さん",
+        "meaning":  [
+                        "grandmother"
+                    ],
+        "pronunciation":  "おばあさん"
+    },
+    {
+        "word":  "お腹",
+        "meaning":  [
+                        "stomach"
+                    ],
+        "pronunciation":  "おなか"
+    },
+    {
+        "word":  "お茶",
+        "meaning":  [
+                        "tea"
+                    ],
+        "pronunciation":  "おちゃ"
+    },
+    {
+        "word":  "お菓子",
+        "meaning":  [
+                        "sweets",
+                        "candy"
+                    ],
+        "pronunciation":  "おかし"
+    },
+    {
+        "word":  "お金",
+        "meaning":  [
+                        "money"
+                    ],
+        "pronunciation":  "おかね"
+    },
+    {
+        "word":  "お風呂",
+        "meaning":  [
+                        "bath"
+                    ],
+        "pronunciation":  "おふろ"
+    },
+    {
+        "word":  "カーペット",
+        "meaning":  [
+                        "carpet"
+                    ],
+        "pronunciation":  "かーぺっと"
+    },
+    {
+        "word":  "ガイド",
+        "meaning":  [
+                        "guide",
+                        "tour guide",
+                        "conductor",
+                        "guiding",
+                        "leading"
+                    ],
+        "pronunciation":  "がいど"
+    },
+    {
+        "word":  "ガイドブック",
+        "meaning":  [
+                        "guidebook"
+                    ],
+        "pronunciation":  "がいどぶっく"
+    },
+    {
+        "word":  "カクテル",
+        "meaning":  [
+                        "cocktail"
+                    ],
+        "pronunciation":  "かくてる"
+    },
+    {
+        "word":  "カット",
+        "meaning":  [
+                        "cut",
+                        "cutting"
+                    ],
+        "pronunciation":  "かっと"
+    },
+    {
+        "word":  "カテゴリ",
+        "meaning":  [
+                        "category"
+                    ],
+        "pronunciation":  "かてごり"
+    },
+    {
+        "word":  "カムバック",
+        "meaning":  [
+                        "comeback"
+                    ],
+        "pronunciation":  "かむばっく"
+    },
+    {
+        "word":  "カメラ",
+        "meaning":  [
+                        "camera"
+                    ],
+        "pronunciation":  "かめら"
+    },
+    {
+        "word":  "カメラマン",
+        "meaning":  [
+                        "photographer"
+                    ],
+        "pronunciation":  "かめらまん"
+    },
+    {
+        "word":  "カルテ",
+        "meaning":  [
+                        "patient\u0027s chart",
+                        "clinical records"
+                    ],
+        "pronunciation":  "かるて"
+    },
+    {
+        "word":  "ガレージ",
+        "meaning":  [
+                        "garage"
+                    ],
+        "pronunciation":  "がれーじ"
+    },
+    {
+        "word":  "カンニング",
+        "meaning":  [
+                        "cheating (on an examination)",
+                        "cribbing"
+                    ],
+        "pronunciation":  "かんにんぐ"
+    },
+    {
+        "word":  "ギター",
+        "meaning":  [
+                        "guitar"
+                    ],
+        "pronunciation":  "ぎたー"
+    },
+    {
+        "word":  "キャッチ",
+        "meaning":  [
+                        "catch",
+                        "catching",
+                        "obtaining (e.g. information)",
+                        "receiving (e.g. radio transmission or phone call)"
+                    ],
+        "pronunciation":  "きゃっち"
+    },
+    {
+        "word":  "キャリア",
+        "meaning":  [
+                        "career",
+                        "occupation"
+                    ],
+        "pronunciation":  "きゃりあ"
+    },
+    {
+        "word":  "キロ",
+        "meaning":  [
+                        "kilogram"
+                    ],
+        "pronunciation":  "きろ"
+    },
+    {
+        "word":  "クイズ",
+        "meaning":  [
+                        "quiz"
+                    ],
+        "pronunciation":  "くいず"
+    },
+    {
+        "word":  "クラス",
+        "meaning":  [
+                        "class"
+                    ],
+        "pronunciation":  "くらす"
+    },
+    {
+        "word":  "クラブ",
+        "meaning":  [
+                        "nightclub"
+                    ],
+        "pronunciation":  "くらぶ"
+    },
+    {
+        "word":  "グラフ",
+        "meaning":  [
+                        "graph",
+                        "chart",
+                        "diagram"
+                    ],
+        "pronunciation":  "ぐらふ"
+    },
+    {
+        "word":  "グラム",
+        "meaning":  [
+                        "gram"
+                    ],
+        "pronunciation":  "ぐらむ"
+    },
+    {
+        "word":  "グレー",
+        "meaning":  [
+                        "grey",
+                        "gray"
+                    ],
+        "pronunciation":  "ぐれー"
+    },
+    {
+        "word":  "クレーン",
+        "meaning":  [
+                        "crane (machine)"
+                    ],
+        "pronunciation":  "くれーん"
+    },
+    {
+        "word":  "ゲスト",
+        "meaning":  [
+                        "guest"
+                    ],
+        "pronunciation":  "げすと"
+    },
+    {
+        "word":  "コート",
+        "meaning":  [
+                        "coat"
+                    ],
+        "pronunciation":  "こーと"
+    },
+    {
+        "word":  "コーナー",
+        "meaning":  [
+                        "corner",
+                        "bend",
+                        "turn"
+                    ],
+        "pronunciation":  "こーなー"
+    },
+    {
+        "word":  "コーヒー",
+        "meaning":  [
+                        "coffee"
+                    ],
+        "pronunciation":  "こーひー"
+    },
+    {
+        "word":  "ここ",
+        "meaning":  [
+                        "here"
+                    ],
+        "pronunciation":  "ここ"
+    },
+    {
+        "word":  "コップ",
+        "meaning":  [
+                        "glass"
+                    ],
+        "pronunciation":  "こっぷ"
+    },
+    {
+        "word":  "コマーシャル",
+        "meaning":  [
+                        "commercial (TV or radio advertisement)"
+                    ],
+        "pronunciation":  "こまーしゃる"
+    },
+    {
+        "word":  "コミュニケーション",
+        "meaning":  [
+                        "communication"
+                    ],
+        "pronunciation":  "コミュニケーション"
+    },
+    {
+        "word":  "コメント",
+        "meaning":  [
+                        "comment"
+                    ],
+        "pronunciation":  "こめんと"
+    },
+    {
+        "word":  "コンタクト",
+        "meaning":  [
+                        "contact"
+                    ],
+        "pronunciation":  "こんたくと"
+    },
+    {
+        "word":  "コンテスト",
+        "meaning":  [
+                        "contest"
+                    ],
+        "pronunciation":  "こんてすと"
+    },
+    {
+        "word":  "コントラスト",
+        "meaning":  [
+                        "contrast"
+                    ],
+        "pronunciation":  "こんとらすと"
+    },
+    {
+        "word":  "コントロール",
+        "meaning":  [
+                        "control"
+                    ],
+        "pronunciation":  "こんとろーる"
+    },
+    {
+        "word":  "コンパス",
+        "meaning":  [
+                        "compass (for drawing circles",
+                        "etc.)",
+                        "pair of compasses"
+                    ],
+        "pronunciation":  "こんぱす"
+    },
+    {
+        "word":  "ご飯",
+        "meaning":  [
+                        "cooked rice",
+                        "meal"
+                    ],
+        "pronunciation":  "ごはん"
+    },
+    {
+        "word":  "サイクル",
+        "meaning":  [
+                        "cycle"
+                    ],
+        "pronunciation":  "さいくる"
+    },
+    {
+        "word":  "サイズ",
+        "meaning":  [
+                        "size"
+                    ],
+        "pronunciation":  "サイズ"
+    },
+    {
+        "word":  "サボる",
+        "meaning":  [
+                        "to be truant",
+                        "to slack off",
+                        "to play hooky",
+                        "to skip school",
+                        "to cut class",
+                        "to skip out"
+                    ],
+        "pronunciation":  "さぼる"
+    },
+    {
+        "word":  "さん",
+        "meaning":  [
+                        "Mr.",
+                        "Mrs.",
+                        "Miss",
+                        "Ms.",
+                        "-san"
+                    ],
+        "pronunciation":  "さん"
+    },
+    {
+        "word":  "サンキュー",
+        "meaning":  [
+                        "thank you",
+                        "thanks"
+                    ],
+        "pronunciation":  "さんきゅう"
+    },
+    {
+        "word":  "サンタクロース",
+        "meaning":  [
+                        "Santa Claus"
+                    ],
+        "pronunciation":  "さんたくろーす"
+    },
+    {
+        "word":  "シート",
+        "meaning":  [
+                        "seat"
+                    ],
+        "pronunciation":  "シート"
+    },
+    {
+        "word":  "システム",
+        "meaning":  [
+                        "system"
+                    ],
+        "pronunciation":  "しすてむ"
+    },
+    {
+        "word":  "シック",
+        "meaning":  [
+                        "chic",
+                        "stylish",
+                        "smart"
+                    ],
+        "pronunciation":  "しっく"
+    },
+    {
+        "word":  "シナリオ",
+        "meaning":  [
+                        "script",
+                        "screenplay"
+                    ],
+        "pronunciation":  "しなりお"
+    },
+    {
+        "word":  "ジャズ",
+        "meaning":  [
+                        "jazz"
+                    ],
+        "pronunciation":  "じゃず"
+    },
+    {
+        "word":  "シャツ",
+        "meaning":  [
+                        "shirt"
+                    ],
+        "pronunciation":  "しゃつ"
+    },
+    {
+        "word":  "シャワー",
+        "meaning":  [
+                        "shower"
+                    ],
+        "pronunciation":  "しゃわー"
+    },
+    {
+        "word":  "ジャンパー",
+        "meaning":  [
+                        "(short) jacket",
+                        "blouson",
+                        "windbreaker",
+                        "jumper"
+                    ],
+        "pronunciation":  "じゃんぱー"
+    },
+    {
+        "word":  "ジャンプ",
+        "meaning":  [
+                        "jump"
+                    ],
+        "pronunciation":  "じゃんぷ"
+    },
+    {
+        "word":  "ジャンボ",
+        "meaning":  [
+                        "jumbo",
+                        "jumbo-sized"
+                    ],
+        "pronunciation":  "じゃんぼ"
+    },
+    {
+        "word":  "ジャンル",
+        "meaning":  [
+                        "genre",
+                        "category",
+                        "kind"
+                    ],
+        "pronunciation":  "じゃんる"
+    },
+    {
+        "word":  "ショー",
+        "meaning":  [
+                        "show",
+                        "performance"
+                    ],
+        "pronunciation":  "しょう"
+    },
+    {
+        "word":  "ショック",
+        "meaning":  [
+                        "shock (emotional)"
+                    ],
+        "pronunciation":  "しょっく"
+    },
+    {
+        "word":  "スカート",
+        "meaning":  [
+                        "skirt"
+                    ],
+        "pronunciation":  "すかーと"
+    },
+    {
+        "word":  "スタジオ",
+        "meaning":  [
+                        "studio"
+                    ],
+        "pronunciation":  "すたじお"
+    },
+    {
+        "word":  "スチーム",
+        "meaning":  [
+                        "steam"
+                    ],
+        "pronunciation":  "すちーむ"
+    },
+    {
+        "word":  "ストーブ",
+        "meaning":  [
+                        "heater",
+                        "stove"
+                    ],
+        "pronunciation":  "すとーぶ"
+    },
+    {
+        "word":  "ストライキ",
+        "meaning":  [
+                        "strike (i.e. industrial action)"
+                    ],
+        "pronunciation":  "すとらいき"
+    },
+    {
+        "word":  "ストレス",
+        "meaning":  [
+                        "stress"
+                    ],
+        "pronunciation":  "すとれす"
+    },
+    {
+        "word":  "ストロー",
+        "meaning":  [
+                        "drinking straw"
+                    ],
+        "pronunciation":  "すとろー"
+    },
+    {
+        "word":  "ストロボ",
+        "meaning":  [
+                        "stroboscope",
+                        "strobe lamp",
+                        "stroboscopic lamp"
+                    ],
+        "pronunciation":  "すとろぼ"
+    },
+    {
+        "word":  "スピード",
+        "meaning":  [
+                        "speed"
+                    ],
+        "pronunciation":  "すぴーど"
+    },
+    {
+        "word":  "スプーン",
+        "meaning":  [
+                        "spoon"
+                    ],
+        "pronunciation":  "すぷーん"
+    },
+    {
+        "word":  "スポーツ",
+        "meaning":  [
+                        "sport"
+                    ],
+        "pronunciation":  "すぽーつ"
+    },
+    {
+        "word":  "スポーツカー",
+        "meaning":  [
+                        "sports car"
+                    ],
+        "pronunciation":  "すぽーつかー"
+    },
+    {
+        "word":  "ズボン",
+        "meaning":  [
+                        "trousers",
+                        "pants"
+                    ],
+        "pronunciation":  "ずぼん"
+    },
+    {
+        "word":  "スリッパ",
+        "meaning":  [
+                        "slippers"
+                    ],
+        "pronunciation":  "すりっぱ"
+    },
+    {
+        "word":  "する",
+        "meaning":  [
+                        "to do"
+                    ],
+        "pronunciation":  "する"
+    },
+    {
+        "word":  "セーター",
+        "meaning":  [
+                        "sweater",
+                        "jumper"
+                    ],
+        "pronunciation":  "せーたー"
+    },
+    {
+        "word":  "セール",
+        "meaning":  [
+                        "sale"
+                    ],
+        "pronunciation":  "せーる"
+    },
+    {
+        "word":  "セクション",
+        "meaning":  [
+                        "section"
+                    ],
+        "pronunciation":  "せくしょん"
+    },
+    {
+        "word":  "ゼリー",
+        "meaning":  [
+                        "jello",
+                        "jelly",
+                        "gelatin dessert"
+                    ],
+        "pronunciation":  "ぜりー"
+    },
+    {
+        "word":  "セレモニー",
+        "meaning":  [
+                        "ceremony"
+                    ],
+        "pronunciation":  "せれもにー"
+    },
+    {
+        "word":  "ゼロ",
+        "meaning":  [
+                        "zero",
+                        "naught"
+                    ],
+        "pronunciation":  "ぜろ"
+    },
+    {
+        "word":  "センス",
+        "meaning":  [
+                        "taste (in fashion",
+                        "music",
+                        "etc.)",
+                        "sense (e.g. of humour)",
+                        "flair"
+                    ],
+        "pronunciation":  "せんす"
+    },
+    {
+        "word":  "ソース",
+        "meaning":  [
+                        "source (of information)"
+                    ],
+        "pronunciation":  "そうす"
+    },
+    {
+        "word":  "ソックス",
+        "meaning":  [
+                        "socks"
+                    ],
+        "pronunciation":  "そっくす"
+    },
+    {
+        "word":  "ソロ",
+        "meaning":  [
+                        "solo"
+                    ],
+        "pronunciation":  "そろ"
+    },
+    {
+        "word":  "タイトル",
+        "meaning":  [
+                        "title"
+                    ],
+        "pronunciation":  "たいとる"
+    },
+    {
+        "word":  "タイマー",
+        "meaning":  [
+                        "timer",
+                        "time switch"
+                    ],
+        "pronunciation":  "たいまー"
+    },
+    {
+        "word":  "タイミング",
+        "meaning":  [
+                        "timing"
+                    ],
+        "pronunciation":  "たいみんぐ"
+    },
+    {
+        "word":  "タイム",
+        "meaning":  [
+                        "time (for",
+                        "to do)"
+                    ],
+        "pronunciation":  "たいむ"
+    },
+    {
+        "word":  "タイムリー",
+        "meaning":  [
+                        "timely",
+                        "well-timed"
+                    ],
+        "pronunciation":  "たいうりー"
+    },
+    {
+        "word":  "タイヤ",
+        "meaning":  [
+                        "tire",
+                        "tyre"
+                    ],
+        "pronunciation":  "たいあ"
+    },
+    {
+        "word":  "タイル",
+        "meaning":  [
+                        "tile"
+                    ],
+        "pronunciation":  "たいる"
+    },
+    {
+        "word":  "ダウン",
+        "meaning":  [
+                        "fall",
+                        "decrease",
+                        "drop",
+                        "going down"
+                    ],
+        "pronunciation":  "だうん"
+    },
+    {
+        "word":  "タクシー",
+        "meaning":  [
+                        "taxi"
+                    ],
+        "pronunciation":  "たくしー"
+    },
+    {
+        "word":  "ダブる",
+        "meaning":  [
+                        "to be duplicated",
+                        "to be repeated"
+                    ],
+        "pronunciation":  "だぶる"
+    },
+    {
+        "word":  "タレント",
+        "meaning":  [
+                        "(TV or radio) entertainer",
+                        "television personality",
+                        "radio personality"
+                    ],
+        "pronunciation":  "たれんと"
+    },
+    {
+        "word":  "タワー",
+        "meaning":  [
+                        "tower"
+                    ],
+        "pronunciation":  "たわー"
+    },
+    {
+        "word":  "ダンプ",
+        "meaning":  [
+                        "dump"
+                    ],
+        "pronunciation":  "だんぷ"
+    },
+    {
+        "word":  "チームワーク",
+        "meaning":  [
+                        "teamwork"
+                    ],
+        "pronunciation":  "ちーむわーく"
+    },
+    {
+        "word":  "チェンジ",
+        "meaning":  [
+                        "change",
+                        "changing"
+                    ],
+        "pronunciation":  "ちぇんじ"
+    },
+    {
+        "word":  "チャイム",
+        "meaning":  [
+                        "chime",
+                        "bell (e.g. doorbell)"
+                    ],
+        "pronunciation":  "ちゃいむ"
+    },
+    {
+        "word":  "チャネル",
+        "meaning":  [
+                        "channel"
+                    ],
+        "pronunciation":  "ちゃねる"
+    },
+    {
+        "word":  "ちょうど",
+        "meaning":  [
+                        "exactly",
+                        "precisely",
+                        "just"
+                    ],
+        "pronunciation":  "ちょうど"
+    },
+    {
+        "word":  "ちょっと",
+        "meaning":  [
+                        "a little"
+                    ],
+        "pronunciation":  "ちょっと"
+    },
+    {
+        "word":  "データ",
+        "meaning":  [
+                        "data",
+                        "datum"
+                    ],
+        "pronunciation":  "でーた"
+    },
+    {
+        "word":  "テープ",
+        "meaning":  [
+                        "tape"
+                    ],
+        "pronunciation":  "てーぷ"
+    },
+    {
+        "word":  "テーブル",
+        "meaning":  [
+                        "table"
+                    ],
+        "pronunciation":  "てーぶる"
+    },
+    {
+        "word":  "テープレコーダー",
+        "meaning":  [
+                        "tape recorder"
+                    ],
+        "pronunciation":  "てーぷれこーだー"
+    },
+    {
+        "word":  "ティッシュペーパー",
+        "meaning":  [
+                        "tissue paper",
+                        "tissue",
+                        "facial tissue"
+                    ],
+        "pronunciation":  "てぃっしゅぺーぱー"
+    },
+    {
+        "word":  "デザート",
+        "meaning":  [
+                        "dessert"
+                    ],
+        "pronunciation":  "でざーと"
+    },
+    {
+        "word":  "デザイン",
+        "meaning":  [
+                        "design"
+                    ],
+        "pronunciation":  "でざいん"
+    },
+    {
+        "word":  "テスト",
+        "meaning":  [
+                        "test"
+                    ],
+        "pronunciation":  "てすと"
+    },
+    {
+        "word":  "デッサン",
+        "meaning":  [
+                        "rough sketch"
+                    ],
+        "pronunciation":  "でっさん"
+    },
+    {
+        "word":  "デパート",
+        "meaning":  [
+                        "department store"
+                    ],
+        "pronunciation":  "でぱーと"
+    },
+    {
+        "word":  "テレックス",
+        "meaning":  [
+                        "telex",
+                        "teletypewriter exchange"
+                    ],
+        "pronunciation":  "てれっくす"
+    },
+    {
+        "word":  "テレビ",
+        "meaning":  [
+                        "television",
+                        "TV"
+                    ],
+        "pronunciation":  "てれび"
+    },
+    {
+        "word":  "トーン",
+        "meaning":  [
+                        "tone"
+                    ],
+        "pronunciation":  "とーん"
+    },
+    {
+        "word":  "ドア",
+        "meaning":  [
+                        "door"
+                    ],
+        "pronunciation":  "どあ"
+    },
+    {
+        "word":  "トイレ",
+        "meaning":  [
+                        "toilet",
+                        "restroom"
+                    ],
+        "pronunciation":  "といれ"
+    },
+    {
+        "word":  "どう",
+        "meaning":  [
+                        "how",
+                        "in what way",
+                        "how about"
+                    ],
+        "pronunciation":  "どう"
+    },
+    {
+        "word":  "どうして",
+        "meaning":  [
+                        "why",
+                        "for what reason"
+                    ],
+        "pronunciation":  "どうして"
+    },
+    {
+        "word":  "どうぞ",
+        "meaning":  [
+                        "please",
+                        "feel free"
+                    ],
+        "pronunciation":  "どうぞ"
+    },
+    {
+        "word":  "どうも",
+        "meaning":  [
+                        "thanks"
+                    ],
+        "pronunciation":  "どうも"
+    },
+    {
+        "word":  "どこ",
+        "meaning":  [
+                        "where"
+                    ],
+        "pronunciation":  "どこ"
+    },
+    {
+        "word":  "どちら",
+        "meaning":  [
+                        "which one"
+                    ],
+        "pronunciation":  "どちら"
+    },
+    {
+        "word":  "とても",
+        "meaning":  [
+                        "very",
+                        "exceedingly"
+                    ],
+        "pronunciation":  "とても"
+    },
+    {
+        "word":  "ドライ",
+        "meaning":  [
+                        "dry"
+                    ],
+        "pronunciation":  "どらい"
+    },
+    {
+        "word":  "ドライクリーニング",
+        "meaning":  [
+                        "dry cleaning"
+                    ],
+        "pronunciation":  "どらいくりいにんぐ"
+    },
+    {
+        "word":  "ドライバー",
+        "meaning":  [
+                        "driver (of a vehicle)"
+                    ],
+        "pronunciation":  "どらいばー"
+    },
+    {
+        "word":  "ドライブイン",
+        "meaning":  [
+                        "drive-in (bank",
+                        "cinema",
+                        "etc.)"
+                    ],
+        "pronunciation":  "どらいぶいん"
+    },
+    {
+        "word":  "トラブル",
+        "meaning":  [
+                        "trouble",
+                        "difficulty",
+                        "problem",
+                        "quarrel",
+                        "conflict",
+                        "dispute",
+                        "fight"
+                    ],
+        "pronunciation":  "とらぶる"
+    },
+    {
+        "word":  "ドリル",
+        "meaning":  [
+                        "drill bit",
+                        "drill"
+                    ],
+        "pronunciation":  "どりる"
+    },
+    {
+        "word":  "ナイター",
+        "meaning":  [
+                        "game under lights (e.g. baseball)",
+                        "night game"
+                    ],
+        "pronunciation":  "ないたー"
+    },
+    {
+        "word":  "ナプキン",
+        "meaning":  [
+                        "(table) napkin",
+                        "serviette"
+                    ],
+        "pronunciation":  "なぷきん"
+    },
+    {
+        "word":  "なる",
+        "meaning":  [
+                        "to become"
+                    ],
+        "pronunciation":  "なる"
+    },
+    {
+        "word":  "パーティー",
+        "meaning":  [
+                        "party"
+                    ],
+        "pronunciation":  "ぱーてぃー"
+    },
+    {
+        "word":  "バス",
+        "meaning":  [
+                        "bus"
+                    ],
+        "pronunciation":  "ばす"
+    },
+    {
+        "word":  "プール",
+        "meaning":  [
+                        "swimming pool"
+                    ],
+        "pronunciation":  "ぷーる"
+    },
+    {
+        "word":  "フェリー",
+        "meaning":  [
+                        "ferry"
+                    ],
+        "pronunciation":  "ふぇりー"
+    },
+    {
+        "word":  "フォーク",
+        "meaning":  [
+                        "fork"
+                    ],
+        "pronunciation":  "ふぉーく"
+    },
+    {
+        "word":  "ベッド",
+        "meaning":  [
+                        "bed"
+                    ],
+        "pronunciation":  "べっど"
+    },
+    {
+        "word":  "ペット",
+        "meaning":  [
+                        "pet"
+                    ],
+        "pronunciation":  "ぺっと"
+    },
+    {
+        "word":  "ペン",
+        "meaning":  [
+                        "pen"
+                    ],
+        "pronunciation":  "ぺん"
+    },
+    {
+        "word":  "ポケット",
+        "meaning":  [
+                        "pocket"
+                    ],
+        "pronunciation":  "ぽけっと"
+    },
+    {
+        "word":  "ホテル",
+        "meaning":  [
+                        "hotel"
+                    ],
+        "pronunciation":  "ほてる"
+    },
+    {
+        "word":  "また",
+        "meaning":  [
+                        "again",
+                        "also"
+                    ],
+        "pronunciation":  "また"
+    },
+    {
+        "word":  "まだ",
+        "meaning":  [
+                        "still",
+                        "not yet"
+                    ],
+        "pronunciation":  "まだ"
+    },
+    {
+        "word":  "やる",
+        "meaning":  [
+                        "to do"
+                    ],
+        "pronunciation":  "やる"
+    },
+    {
+        "word":  "ゆっくり",
+        "meaning":  [
+                        "slowly",
+                        "at ease"
+                    ],
+        "pronunciation":  "ゆっくり"
+    },
+    {
+        "word":  "一",
+        "meaning":  [
+                        "one"
+                    ],
+        "pronunciation":  "いち"
+    },
+    {
+        "word":  "一つ",
+        "meaning":  [
+                        "one"
+                    ],
+        "pronunciation":  "ひとつ"
+    },
+    {
+        "word":  "一人",
+        "meaning":  [
+                        "one person",
+                        "alone"
+                    ],
+        "pronunciation":  "ひとり"
+    },
+    {
+        "word":  "一日",
+        "meaning":  [
+                        "one day"
+                    ],
+        "pronunciation":  "いちにち"
+    },
+    {
+        "word":  "一昨年",
+        "meaning":  [
+                        "year before last"
+                    ],
+        "pronunciation":  "おととし"
+    },
+    {
+        "word":  "一昨日",
+        "meaning":  [
+                        "day before yesterday"
+                    ],
+        "pronunciation":  "おととい"
+    },
+    {
+        "word":  "一番",
+        "meaning":  [
+                        "number one",
+                        "first",
+                        "first place"
+                    ],
+        "pronunciation":  "いちばん"
+    },
+    {
+        "word":  "一緒",
+        "meaning":  [
+                        "together"
+                    ],
+        "pronunciation":  "いっしょ"
+    },
+    {
+        "word":  "七",
+        "meaning":  [
+                        "seven"
+                    ],
+        "pronunciation":  "しち"
+    },
+    {
+        "word":  "七日",
+        "meaning":  [
+                        "seventh day of the month",
+                        "seven days"
+                    ],
+        "pronunciation":  "なのか"
+    },
+    {
+        "word":  "万",
+        "meaning":  [
+                        "ten thousand"
+                    ],
+        "pronunciation":  "まん"
+    },
+    {
+        "word":  "三",
+        "meaning":  [
+                        "three"
+                    ],
+        "pronunciation":  "さん"
+    },
+    {
+        "word":  "上",
+        "meaning":  [
+                        "person of high rank",
+                        "government"
+                    ],
+        "pronunciation":  "うえ"
+    },
+    {
+        "word":  "上手",
+        "meaning":  [
+                        "skill",
+                        "skillful"
+                    ],
+        "pronunciation":  "じょうず"
+    },
+    {
+        "word":  "上着",
+        "meaning":  [
+                        "coat",
+                        "jacket"
+                    ],
+        "pronunciation":  "うわぎ"
+    },
+    {
+        "word":  "下",
+        "meaning":  [
+                        "below",
+                        "down",
+                        "under"
+                    ],
+        "pronunciation":  "した"
+    },
+    {
+        "word":  "下手",
+        "meaning":  [
+                        "unskillful"
+                    ],
+        "pronunciation":  "へた"
+    },
+    {
+        "word":  "不味い",
+        "meaning":  [
+                        "unappetizing",
+                        "unsavory"
+                    ],
+        "pronunciation":  "まずい"
+    },
+    {
+        "word":  "両親",
+        "meaning":  [
+                        "parents",
+                        "both parents"
+                    ],
+        "pronunciation":  "りょうしん"
+    },
+    {
+        "word":  "並ぶ",
+        "meaning":  [
+                        "to stand in a line"
+                    ],
+        "pronunciation":  "ならぶ"
+    },
+    {
+        "word":  "並べる",
+        "meaning":  [
+                        "to line up"
+                    ],
+        "pronunciation":  "ならべる"
+    },
+    {
+        "word":  "丸い",
+        "meaning":  [
+                        "round",
+                        "circular"
+                    ],
+        "pronunciation":  "まるい"
+    },
+    {
+        "word":  "乗る",
+        "meaning":  [
+                        "to get on"
+                    ],
+        "pronunciation":  "のる"
+    },
+    {
+        "word":  "九",
+        "meaning":  [
+                        "nine"
+                    ],
+        "pronunciation":  "きゅう"
+    },
+    {
+        "word":  "九日",
+        "meaning":  [
+                        "ninth day of the month",
+                        "nine days"
+                    ],
+        "pronunciation":  "ここのか"
+    },
+    {
+        "word":  "二",
+        "meaning":  [
+                        "two"
+                    ],
+        "pronunciation":  "に"
+    },
+    {
+        "word":  "二人",
+        "meaning":  [
+                        "two people",
+                        "pair"
+                    ],
+        "pronunciation":  "ふたり"
+    },
+    {
+        "word":  "二十日",
+        "meaning":  [
+                        "twentieth day of the month",
+                        "twenty days"
+                    ],
+        "pronunciation":  "はつか"
+    },
+    {
+        "word":  "二十歳",
+        "meaning":  [
+                        "twenty years old"
+                    ],
+        "pronunciation":  "はたち"
+    },
+    {
+        "word":  "二日",
+        "meaning":  [
+                        "second day of the month",
+                        "two days"
+                    ],
+        "pronunciation":  "ふつか"
+    },
+    {
+        "word":  "五",
+        "meaning":  [
+                        "five"
+                    ],
+        "pronunciation":  "ご"
+    },
+    {
+        "word":  "五つ",
+        "meaning":  [
+                        "five"
+                    ],
+        "pronunciation":  "いつつ"
+    },
+    {
+        "word":  "五日",
+        "meaning":  [
+                        "fifth day of the month",
+                        "five days"
+                    ],
+        "pronunciation":  "いつか"
+    },
+    {
+        "word":  "交差点",
+        "meaning":  [
+                        "crossing",
+                        "intersection"
+                    ],
+        "pronunciation":  "こうさてん"
+    },
+    {
+        "word":  "交番",
+        "meaning":  [
+                        "police box"
+                    ],
+        "pronunciation":  "こうばん"
+    },
+    {
+        "word":  "人",
+        "meaning":  [
+                        "person"
+                    ],
+        "pronunciation":  "ひと"
+    },
+    {
+        "word":  "今",
+        "meaning":  [
+                        "now",
+                        "the present time"
+                    ],
+        "pronunciation":  "いま"
+    },
+    {
+        "word":  "今年",
+        "meaning":  [
+                        "this year"
+                    ],
+        "pronunciation":  "ことし"
+    },
+    {
+        "word":  "今日",
+        "meaning":  [
+                        "this day",
+                        "these days",
+                        "recently"
+                    ],
+        "pronunciation":  "きょう"
+    },
+    {
+        "word":  "今晩",
+        "meaning":  [
+                        "tonight",
+                        "this evening"
+                    ],
+        "pronunciation":  "こんばん"
+    },
+    {
+        "word":  "今朝",
+        "meaning":  [
+                        "this morning"
+                    ],
+        "pronunciation":  "けさ"
+    },
+    {
+        "word":  "今週",
+        "meaning":  [
+                        "this week"
+                    ],
+        "pronunciation":  "こんしゅう"
+    },
+    {
+        "word":  "仕事",
+        "meaning":  [
+                        "work",
+                        "job"
+                    ],
+        "pronunciation":  "しごと"
+    },
+    {
+        "word":  "他",
+        "meaning":  [
+                        "other",
+                        "the rest"
+                    ],
+        "pronunciation":  "ほか"
+    },
+    {
+        "word":  "休み",
+        "meaning":  [
+                        "rest",
+                        "recess"
+                    ],
+        "pronunciation":  "やすみ"
+    },
+    {
+        "word":  "休む",
+        "meaning":  [
+                        "to be absent",
+                        "to take a day off"
+                    ],
+        "pronunciation":  "やすむ"
+    },
+    {
+        "word":  "会う",
+        "meaning":  [
+                        "to meet"
+                    ],
+        "pronunciation":  "あう"
+    },
+    {
+        "word":  "会社",
+        "meaning":  [
+                        "company",
+                        "corporation"
+                    ],
+        "pronunciation":  "かいしゃ"
+    },
+    {
+        "word":  "伯母さん",
+        "meaning":  [
+                        "aunt"
+                    ],
+        "pronunciation":  "おばさん"
+    },
+    {
+        "word":  "低い",
+        "meaning":  [
+                        "low"
+                    ],
+        "pronunciation":  "ひくい"
+    },
+    {
+        "word":  "住む",
+        "meaning":  [
+                        "to live",
+                        "to reside"
+                    ],
+        "pronunciation":  "すむ"
+    },
+    {
+        "word":  "体",
+        "meaning":  [
+                        "body",
+                        "torso"
+                    ],
+        "pronunciation":  "からだ"
+    },
+    {
+        "word":  "何",
+        "meaning":  [
+                        "what"
+                    ],
+        "pronunciation":  "なに"
+    },
+    {
+        "word":  "作る",
+        "meaning":  [
+                        "to make",
+                        "to produce"
+                    ],
+        "pronunciation":  "つくる"
+    },
+    {
+        "word":  "作文",
+        "meaning":  [
+                        "writing"
+                    ],
+        "pronunciation":  "さくぶん"
+    },
+    {
+        "word":  "使う",
+        "meaning":  [
+                        "to use",
+                        "to make use of"
+                    ],
+        "pronunciation":  "つかう"
+    },
+    {
+        "word":  "便利",
+        "meaning":  [
+                        "convenient",
+                        "handy"
+                    ],
+        "pronunciation":  "べんり"
+    },
+    {
+        "word":  "借りる",
+        "meaning":  [
+                        "to borrow"
+                    ],
+        "pronunciation":  "かりる"
+    },
+    {
+        "word":  "側",
+        "meaning":  [
+                        "near",
+                        "close",
+                        "beside"
+                    ],
+        "pronunciation":  "そば"
+    },
+    {
+        "word":  "傘",
+        "meaning":  [
+                        "umbrella"
+                    ],
+        "pronunciation":  "かさ"
+    },
+    {
+        "word":  "働く",
+        "meaning":  [
+                        "to work"
+                    ],
+        "pronunciation":  "はたらく"
+    },
+    {
+        "word":  "元気",
+        "meaning":  [
+                        "lively",
+                        "full of spirit"
+                    ],
+        "pronunciation":  "げんき"
+    },
+    {
+        "word":  "兄",
+        "meaning":  [
+                        "older brother"
+                    ],
+        "pronunciation":  "あに"
+    },
+    {
+        "word":  "兄弟",
+        "meaning":  [
+                        "siblings",
+                        "brothers and sisters"
+                    ],
+        "pronunciation":  "きょうだい"
+    },
+    {
+        "word":  "先",
+        "meaning":  [
+                        "previous",
+                        "prior",
+                        "former"
+                    ],
+        "pronunciation":  "さき"
+    },
+    {
+        "word":  "先月",
+        "meaning":  [
+                        "last month"
+                    ],
+        "pronunciation":  "せんげつ"
+    },
+    {
+        "word":  "先生",
+        "meaning":  [
+                        "teacher",
+                        "master",
+                        "doctor"
+                    ],
+        "pronunciation":  "せんせい"
+    },
+    {
+        "word":  "先週",
+        "meaning":  [
+                        "last week"
+                    ],
+        "pronunciation":  "せんしゅう"
+    },
+    {
+        "word":  "入る",
+        "meaning":  [
+                        "to enter",
+                        "to go into"
+                    ],
+        "pronunciation":  "はいる"
+    },
+    {
+        "word":  "入れる",
+        "meaning":  [
+                        "to put in",
+                        "to let in"
+                    ],
+        "pronunciation":  "いれる"
+    },
+    {
+        "word":  "入口",
+        "meaning":  [
+                        "entrance",
+                        "gate"
+                    ],
+        "pronunciation":  "いりぐち"
+    },
+    {
+        "word":  "全部",
+        "meaning":  [
+                        "all",
+                        "entire",
+                        "whole"
+                    ],
+        "pronunciation":  "ぜんぶ"
+    },
+    {
+        "word":  "八",
+        "meaning":  [
+                        "eight"
+                    ],
+        "pronunciation":  "はち"
+    },
+    {
+        "word":  "八日",
+        "meaning":  [
+                        "eight day of the month",
+                        "eight days"
+                    ],
+        "pronunciation":  "ようか"
+    },
+    {
+        "word":  "六",
+        "meaning":  [
+                        "six"
+                    ],
+        "pronunciation":  "ろく"
+    },
+    {
+        "word":  "六日",
+        "meaning":  [
+                        "sixth day of the month",
+                        "six days"
+                    ],
+        "pronunciation":  "むいか"
+    },
+    {
+        "word":  "再来年",
+        "meaning":  [
+                        "year after next"
+                    ],
+        "pronunciation":  "さらいねん"
+    },
+    {
+        "word":  "写真",
+        "meaning":  [
+                        "photograph",
+                        "photo",
+                        "picture"
+                    ],
+        "pronunciation":  "しゃしん"
+    },
+    {
+        "word":  "冬",
+        "meaning":  [
+                        "winter"
+                    ],
+        "pronunciation":  "ふゆ"
+    },
+    {
+        "word":  "冷たい",
+        "meaning":  [
+                        "cold"
+                    ],
+        "pronunciation":  "つめたい"
+    },
+    {
+        "word":  "冷蔵庫",
+        "meaning":  [
+                        "refrigerator"
+                    ],
+        "pronunciation":  "れいぞうこ"
+    },
+    {
+        "word":  "出かける",
+        "meaning":  [
+                        "to go out"
+                    ],
+        "pronunciation":  "でかける"
+    },
+    {
+        "word":  "出す",
+        "meaning":  [
+                        "to take out"
+                    ],
+        "pronunciation":  "だす"
+    },
+    {
+        "word":  "出る",
+        "meaning":  [
+                        "to leave",
+                        "to exit"
+                    ],
+        "pronunciation":  "でる"
+    },
+    {
+        "word":  "出口",
+        "meaning":  [
+                        "exit",
+                        "gateway"
+                    ],
+        "pronunciation":  "でぐち"
+    },
+    {
+        "word":  "分かる",
+        "meaning":  [
+                        "to understand",
+                        "to comprehend"
+                    ],
+        "pronunciation":  "わかる"
+    },
+    {
+        "word":  "切る",
+        "meaning":  [
+                        "to cut"
+                    ],
+        "pronunciation":  "きる"
+    },
+    {
+        "word":  "切手",
+        "meaning":  [
+                        "stamp"
+                    ],
+        "pronunciation":  "きって"
+    },
+    {
+        "word":  "切符",
+        "meaning":  [
+                        "ticket"
+                    ],
+        "pronunciation":  "きっぷ"
+    },
+    {
+        "word":  "初めて",
+        "meaning":  [
+                        "for the first time"
+                    ],
+        "pronunciation":  "はじめて"
+    },
+    {
+        "word":  "前",
+        "meaning":  [
+                        "front",
+                        "ahead",
+                        "previous"
+                    ],
+        "pronunciation":  "まえ"
+    },
+    {
+        "word":  "勉強",
+        "meaning":  [
+                        "study",
+                        "diligence"
+                    ],
+        "pronunciation":  "べんきょう"
+    },
+    {
+        "word":  "動物",
+        "meaning":  [
+                        "animal"
+                    ],
+        "pronunciation":  "どうぶつ"
+    },
+    {
+        "word":  "勤める",
+        "meaning":  [
+                        "to work"
+                    ],
+        "pronunciation":  "つとめる"
+    },
+    {
+        "word":  "北",
+        "meaning":  [
+                        "north"
+                    ],
+        "pronunciation":  "きた"
+    },
+    {
+        "word":  "十日",
+        "meaning":  [
+                        "tenth day of the month",
+                        "ten days"
+                    ],
+        "pronunciation":  "とおか"
+    },
+    {
+        "word":  "千",
+        "meaning":  [
+                        "thousand"
+                    ],
+        "pronunciation":  "せん"
+    },
+    {
+        "word":  "午前",
+        "meaning":  [
+                        "morning",
+                        "a.m."
+                    ],
+        "pronunciation":  "ごぜん"
+    },
+    {
+        "word":  "午後",
+        "meaning":  [
+                        "afternoon",
+                        "p.m."
+                    ],
+        "pronunciation":  "ごご"
+    },
+    {
+        "word":  "半分",
+        "meaning":  [
+                        "half"
+                    ],
+        "pronunciation":  "はんぶん"
+    },
+    {
+        "word":  "南",
+        "meaning":  [
+                        "south"
+                    ],
+        "pronunciation":  "みなみ"
+    },
+    {
+        "word":  "危ない",
+        "meaning":  [
+                        "dangerous",
+                        "risky"
+                    ],
+        "pronunciation":  "あぶない"
+    },
+    {
+        "word":  "卵",
+        "meaning":  [
+                        "egg",
+                        "spawn"
+                    ],
+        "pronunciation":  "たまご"
+    },
+    {
+        "word":  "厚い",
+        "meaning":  [
+                        "thick"
+                    ],
+        "pronunciation":  "あつい"
+    },
+    {
+        "word":  "去年",
+        "meaning":  [
+                        "last year"
+                    ],
+        "pronunciation":  "きょねん"
+    },
+    {
+        "word":  "友達",
+        "meaning":  [
+                        "friend",
+                        "companion"
+                    ],
+        "pronunciation":  "ともだち"
+    },
+    {
+        "word":  "取る",
+        "meaning":  [
+                        "to take",
+                        "to pick up"
+                    ],
+        "pronunciation":  "とる"
+    },
+    {
+        "word":  "口",
+        "meaning":  [
+                        "mouth",
+                        "opening",
+                        "hole"
+                    ],
+        "pronunciation":  "くち"
+    },
+    {
+        "word":  "古い",
+        "meaning":  [
+                        "old"
+                    ],
+        "pronunciation":  "ふるい"
+    },
+    {
+        "word":  "可愛い",
+        "meaning":  [
+                        "cute",
+                        "adorable"
+                    ],
+        "pronunciation":  "かわいい"
+    },
+    {
+        "word":  "台所",
+        "meaning":  [
+                        "kitchen"
+                    ],
+        "pronunciation":  "だいどころ"
+    },
+    {
+        "word":  "右",
+        "meaning":  [
+                        "right",
+                        "right hand side"
+                    ],
+        "pronunciation":  "みぎ"
+    },
+    {
+        "word":  "同じ",
+        "meaning":  [
+                        "same",
+                        "identical"
+                    ],
+        "pronunciation":  "おなじ"
+    },
+    {
+        "word":  "名前",
+        "meaning":  [
+                        "name",
+                        "full name"
+                    ],
+        "pronunciation":  "なまえ"
+    },
+    {
+        "word":  "向こう",
+        "meaning":  [
+                        "opposite side",
+                        "other side"
+                    ],
+        "pronunciation":  "むこう"
+    },
+    {
+        "word":  "吸う",
+        "meaning":  [
+                        "to smoke",
+                        "to breathe in"
+                    ],
+        "pronunciation":  "すう"
+    },
+    {
+        "word":  "吹く",
+        "meaning":  [
+                        "to blow"
+                    ],
+        "pronunciation":  "ふく"
+    },
+    {
+        "word":  "呼ぶ",
+        "meaning":  [
+                        "to call out",
+                        "to call"
+                    ],
+        "pronunciation":  "よぶ"
+    },
+    {
+        "word":  "咲く",
+        "meaning":  [
+                        "to bloom"
+                    ],
+        "pronunciation":  "さく"
+    },
+    {
+        "word":  "問題",
+        "meaning":  [
+                        "question",
+                        "problem"
+                    ],
+        "pronunciation":  "もんだい"
+    },
+    {
+        "word":  "喫茶店",
+        "meaning":  [
+                        "coffee shop"
+                    ],
+        "pronunciation":  "きっさてん"
+    },
+    {
+        "word":  "四",
+        "meaning":  [
+                        "four"
+                    ],
+        "pronunciation":  "し"
+    },
+    {
+        "word":  "四日",
+        "meaning":  [
+                        "fourth day of the month",
+                        "four days"
+                    ],
+        "pronunciation":  "よっか"
+    },
+    {
+        "word":  "困る",
+        "meaning":  [
+                        "to be troubled",
+                        "to be worried"
+                    ],
+        "pronunciation":  "こまる"
+    },
+    {
+        "word":  "図書館",
+        "meaning":  [
+                        "library"
+                    ],
+        "pronunciation":  "としょかん"
+    },
+    {
+        "word":  "国",
+        "meaning":  [
+                        "country",
+                        "state",
+                        "region"
+                    ],
+        "pronunciation":  "くに"
+    },
+    {
+        "word":  "土曜日",
+        "meaning":  [
+                        "Saturday"
+                    ],
+        "pronunciation":  "どようび"
+    },
+    {
+        "word":  "地下鉄",
+        "meaning":  [
+                        "subway",
+                        "metro"
+                    ],
+        "pronunciation":  "ちかてつ"
+    },
+    {
+        "word":  "地図",
+        "meaning":  [
+                        "map"
+                    ],
+        "pronunciation":  "ちず"
+    },
+    {
+        "word":  "塩",
+        "meaning":  [
+                        "salt"
+                    ],
+        "pronunciation":  "しお"
+    },
+    {
+        "word":  "声",
+        "meaning":  [
+                        "voice"
+                    ],
+        "pronunciation":  "こえ"
+    },
+    {
+        "word":  "売る",
+        "meaning":  [
+                        "to sell"
+                    ],
+        "pronunciation":  "うる"
+    },
+    {
+        "word":  "夏",
+        "meaning":  [
+                        "summer"
+                    ],
+        "pronunciation":  "なつ"
+    },
+    {
+        "word":  "外",
+        "meaning":  [
+                        "outside",
+                        "exterior"
+                    ],
+        "pronunciation":  "そと"
+    },
+    {
+        "word":  "外国",
+        "meaning":  [
+                        "foreign country"
+                    ],
+        "pronunciation":  "がいこく"
+    },
+    {
+        "word":  "外国人",
+        "meaning":  [
+                        "foreigner"
+                    ],
+        "pronunciation":  "がいこくじん"
+    },
+    {
+        "word":  "多い",
+        "meaning":  [
+                        "many",
+                        "numerous",
+                        "a lot"
+                    ],
+        "pronunciation":  "おおい"
+    },
+    {
+        "word":  "多分",
+        "meaning":  [
+                        "perhaps",
+                        "probably"
+                    ],
+        "pronunciation":  "たぶん"
+    },
+    {
+        "word":  "夜",
+        "meaning":  [
+                        "evening",
+                        "night"
+                    ],
+        "pronunciation":  "よる"
+    },
+    {
+        "word":  "大きい",
+        "meaning":  [
+                        "big",
+                        "large",
+                        "great"
+                    ],
+        "pronunciation":  "おおきい"
+    },
+    {
+        "word":  "大丈夫",
+        "meaning":  [
+                        "safe",
+                        "all right",
+                        "okay"
+                    ],
+        "pronunciation":  "だいじょうぶ"
+    },
+    {
+        "word":  "大人",
+        "meaning":  [
+                        "adult"
+                    ],
+        "pronunciation":  "おとな"
+    },
+    {
+        "word":  "大使館",
+        "meaning":  [
+                        "embassy"
+                    ],
+        "pronunciation":  "たいしかん"
+    },
+    {
+        "word":  "大切",
+        "meaning":  [
+                        "important",
+                        "necessary"
+                    ],
+        "pronunciation":  "たいせつ"
+    },
+    {
+        "word":  "大勢",
+        "meaning":  [
+                        "many",
+                        "crowd",
+                        "great number of people"
+                    ],
+        "pronunciation":  "おおぜい"
+    },
+    {
+        "word":  "大変",
+        "meaning":  [
+                        "very",
+                        "greatly",
+                        "immense"
+                    ],
+        "pronunciation":  "たいへん"
+    },
+    {
+        "word":  "大学",
+        "meaning":  [
+                        "university"
+                    ],
+        "pronunciation":  "だいがく"
+    },
+    {
+        "word":  "天気",
+        "meaning":  [
+                        "weather"
+                    ],
+        "pronunciation":  "てんき"
+    },
+    {
+        "word":  "奇麗",
+        "meaning":  [
+                        "pretty",
+                        "lovely",
+                        "beautiful"
+                    ],
+        "pronunciation":  "きれい"
+    },
+    {
+        "word":  "奥さん",
+        "meaning":  [
+                        "wife",
+                        "your wife",
+                        "his wife"
+                    ],
+        "pronunciation":  "おくさん"
+    },
+    {
+        "word":  "女",
+        "meaning":  [
+                        "female",
+                        "woman"
+                    ],
+        "pronunciation":  "おんな"
+    },
+    {
+        "word":  "女の子",
+        "meaning":  [
+                        "girl"
+                    ],
+        "pronunciation":  "おんなのこ"
+    },
+    {
+        "word":  "好き",
+        "meaning":  [
+                        "liking",
+                        "fondness",
+                        "love"
+                    ],
+        "pronunciation":  "すき"
+    },
+    {
+        "word":  "妹",
+        "meaning":  [
+                        "younger sister"
+                    ],
+        "pronunciation":  "いもうと"
+    },
+    {
+        "word":  "姉",
+        "meaning":  [
+                        "older sister"
+                    ],
+        "pronunciation":  "あね"
+    },
+    {
+        "word":  "始まる",
+        "meaning":  [
+                        "to begin",
+                        "to start"
+                    ],
+        "pronunciation":  "はじまる"
+    },
+    {
+        "word":  "始め",
+        "meaning":  [
+                        "beginning",
+                        "start"
+                    ],
+        "pronunciation":  "はじめ"
+    },
+    {
+        "word":  "嫌",
+        "meaning":  [
+                        "disagreeable",
+                        "detestable"
+                    ],
+        "pronunciation":  "いや"
+    },
+    {
+        "word":  "嫌い",
+        "meaning":  [
+                        "dislike",
+                        "hate"
+                    ],
+        "pronunciation":  "きらい"
+    },
+    {
+        "word":  "子供",
+        "meaning":  [
+                        "child",
+                        "children"
+                    ],
+        "pronunciation":  "こども"
+    },
+    {
+        "word":  "字引",
+        "meaning":  [
+                        "dictionary"
+                    ],
+        "pronunciation":  "じびき"
+    },
+    {
+        "word":  "学校",
+        "meaning":  [
+                        "school"
+                    ],
+        "pronunciation":  "がっこう"
+    },
+    {
+        "word":  "学生",
+        "meaning":  [
+                        "student"
+                    ],
+        "pronunciation":  "がくせい"
+    },
+    {
+        "word":  "安い",
+        "meaning":  [
+                        "cheap",
+                        "inexpensive"
+                    ],
+        "pronunciation":  "やすい"
+    },
+    {
+        "word":  "家",
+        "meaning":  [
+                        "house",
+                        "residence"
+                    ],
+        "pronunciation":  "いえ"
+    },
+    {
+        "word":  "家庭",
+        "meaning":  [
+                        "home",
+                        "family",
+                        "household"
+                    ],
+        "pronunciation":  "かてい"
+    },
+    {
+        "word":  "家族",
+        "meaning":  [
+                        "family",
+                        "members of a family"
+                    ],
+        "pronunciation":  "かぞく"
+    },
+    {
+        "word":  "宿題",
+        "meaning":  [
+                        "homework"
+                    ],
+        "pronunciation":  "しゅくだい"
+    },
+    {
+        "word":  "寒い",
+        "meaning":  [
+                        "cold"
+                    ],
+        "pronunciation":  "さむい"
+    },
+    {
+        "word":  "寝る",
+        "meaning":  [
+                        "to go to bed"
+                    ],
+        "pronunciation":  "ねる"
+    },
+    {
+        "word":  "封筒",
+        "meaning":  [
+                        "envelope"
+                    ],
+        "pronunciation":  "ふうとう"
+    },
+    {
+        "word":  "小さい",
+        "meaning":  [
+                        "small",
+                        "little",
+                        "tiny"
+                    ],
+        "pronunciation":  "ちいさい"
+    },
+    {
+        "word":  "少し",
+        "meaning":  [
+                        "small quantity",
+                        "little"
+                    ],
+        "pronunciation":  "すこし"
+    },
+    {
+        "word":  "少ない",
+        "meaning":  [
+                        "few",
+                        "a little"
+                    ],
+        "pronunciation":  "すくない"
+    },
+    {
+        "word":  "山",
+        "meaning":  [
+                        "mountain"
+                    ],
+        "pronunciation":  "やま"
+    },
+    {
+        "word":  "川",
+        "meaning":  [
+                        "river",
+                        "stream"
+                    ],
+        "pronunciation":  "かわ"
+    },
+    {
+        "word":  "左",
+        "meaning":  [
+                        "left",
+                        "left hand side"
+                    ],
+        "pronunciation":  "ひだり"
+    },
+    {
+        "word":  "帰る",
+        "meaning":  [
+                        "to return",
+                        "to come home"
+                    ],
+        "pronunciation":  "かえる"
+    },
+    {
+        "word":  "帽子",
+        "meaning":  [
+                        "hat",
+                        "cap"
+                    ],
+        "pronunciation":  "ぼうし"
+    },
+    {
+        "word":  "年",
+        "meaning":  [
+                        "year",
+                        "age"
+                    ],
+        "pronunciation":  "とし"
+    },
+    {
+        "word":  "幾つ",
+        "meaning":  [
+                        "how many",
+                        "how old"
+                    ],
+        "pronunciation":  "いくつ"
+    },
+    {
+        "word":  "幾ら",
+        "meaning":  [
+                        "how much",
+                        "how many"
+                    ],
+        "pronunciation":  "いくら"
+    },
+    {
+        "word":  "広い",
+        "meaning":  [
+                        "spacious",
+                        "vast",
+                        "wide"
+                    ],
+        "pronunciation":  "ひろい"
+    },
+    {
+        "word":  "店",
+        "meaning":  [
+                        "store",
+                        "shop"
+                    ],
+        "pronunciation":  "みせ"
+    },
+    {
+        "word":  "座る",
+        "meaning":  [
+                        "to sit"
+                    ],
+        "pronunciation":  "すわる"
+    },
+    {
+        "word":  "庭",
+        "meaning":  [
+                        "garden",
+                        "yard"
+                    ],
+        "pronunciation":  "にわ"
+    },
+    {
+        "word":  "廊下",
+        "meaning":  [
+                        "corridor",
+                        "hallway"
+                    ],
+        "pronunciation":  "ろうか"
+    },
+    {
+        "word":  "建物",
+        "meaning":  [
+                        "building"
+                    ],
+        "pronunciation":  "たてもの"
+    },
+    {
+        "word":  "引く",
+        "meaning":  [
+                        "to pull",
+                        "to draw"
+                    ],
+        "pronunciation":  "ひく"
+    },
+    {
+        "word":  "弟",
+        "meaning":  [
+                        "younger brother"
+                    ],
+        "pronunciation":  "おとうと"
+    },
+    {
+        "word":  "弱い",
+        "meaning":  [
+                        "weak",
+                        "frail",
+                        "delicate"
+                    ],
+        "pronunciation":  "よわい"
+    },
+    {
+        "word":  "強い",
+        "meaning":  [
+                        "strong",
+                        "powerful"
+                    ],
+        "pronunciation":  "つよい"
+    },
+    {
+        "word":  "弾く",
+        "meaning":  [
+                        "to play"
+                    ],
+        "pronunciation":  "ひく"
+    },
+    {
+        "word":  "待つ",
+        "meaning":  [
+                        "to wait",
+                        "to look forward to"
+                    ],
+        "pronunciation":  "まつ"
+    },
+    {
+        "word":  "後",
+        "meaning":  [
+                        "behind after",
+                        "later"
+                    ],
+        "pronunciation":  "あと"
+    },
+    {
+        "word":  "後ろ",
+        "meaning":  [
+                        "back",
+                        "behind",
+                        "rear"
+                    ],
+        "pronunciation":  "うしろ"
+    },
+    {
+        "word":  "忘れる",
+        "meaning":  [
+                        "to forget"
+                    ],
+        "pronunciation":  "わすれる"
+    },
+    {
+        "word":  "忙しい",
+        "meaning":  [
+                        "busy",
+                        "occupied"
+                    ],
+        "pronunciation":  "いそがしい"
+    },
+    {
+        "word":  "悪い",
+        "meaning":  [
+                        "bad",
+                        "poor",
+                        "inferior"
+                    ],
+        "pronunciation":  "わるい"
+    },
+    {
+        "word":  "意味",
+        "meaning":  [
+                        "meaning",
+                        "significance"
+                    ],
+        "pronunciation":  "いみ"
+    },
+    {
+        "word":  "戸",
+        "meaning":  [
+                        "door"
+                    ],
+        "pronunciation":  "と"
+    },
+    {
+        "word":  "所",
+        "meaning":  [
+                        "place",
+                        "spot",
+                        "scene"
+                    ],
+        "pronunciation":  "ところ"
+    },
+    {
+        "word":  "手",
+        "meaning":  [
+                        "hand"
+                    ],
+        "pronunciation":  "て"
+    },
+    {
+        "word":  "手紙",
+        "meaning":  [
+                        "letter"
+                    ],
+        "pronunciation":  "てがみ"
+    },
+    {
+        "word":  "押す",
+        "meaning":  [
+                        "to push",
+                        "to press"
+                    ],
+        "pronunciation":  "おす"
+    },
+    {
+        "word":  "持つ",
+        "meaning":  [
+                        "to hold"
+                    ],
+        "pronunciation":  "もつ"
+    },
+    {
+        "word":  "掃除",
+        "meaning":  [
+                        "cleaning",
+                        "sweeping"
+                    ],
+        "pronunciation":  "そうじ"
+    },
+    {
+        "word":  "授業",
+        "meaning":  [
+                        "lesson",
+                        "class work"
+                    ],
+        "pronunciation":  "じゅぎょう"
+    },
+    {
+        "word":  "撮る",
+        "meaning":  [
+                        "to take"
+                    ],
+        "pronunciation":  "とる"
+    },
+    {
+        "word":  "教える",
+        "meaning":  [
+                        "to teach",
+                        "to instruct"
+                    ],
+        "pronunciation":  "おしえる"
+    },
+    {
+        "word":  "教室",
+        "meaning":  [
+                        "classroom",
+                        "department"
+                    ],
+        "pronunciation":  "きょうしつ"
+    },
+    {
+        "word":  "散歩",
+        "meaning":  [
+                        "walk",
+                        "stroll"
+                    ],
+        "pronunciation":  "さんぽ"
+    },
+    {
+        "word":  "料理",
+        "meaning":  [
+                        "cooking",
+                        "cuisine"
+                    ],
+        "pronunciation":  "りょうり"
+    },
+    {
+        "word":  "新しい",
+        "meaning":  [
+                        "new",
+                        "fresh"
+                    ],
+        "pronunciation":  "あたらしい"
+    },
+    {
+        "word":  "新聞",
+        "meaning":  [
+                        "newspaper"
+                    ],
+        "pronunciation":  "しんぶん"
+    },
+    {
+        "word":  "方",
+        "meaning":  [
+                        "direction",
+                        "way",
+                        "side"
+                    ],
+        "pronunciation":  "ほう"
+    },
+    {
+        "word":  "旅行",
+        "meaning":  [
+                        "travel",
+                        "trip"
+                    ],
+        "pronunciation":  "りょこう"
+    },
+    {
+        "word":  "日",
+        "meaning":  [
+                        "day",
+                        "sun"
+                    ],
+        "pronunciation":  "ひ"
+    },
+    {
+        "word":  "日曜日",
+        "meaning":  [
+                        "Sunday"
+                    ],
+        "pronunciation":  "にちようび"
+    },
+    {
+        "word":  "早い",
+        "meaning":  [
+                        "early"
+                    ],
+        "pronunciation":  "はやい"
+    },
+    {
+        "word":  "早く",
+        "meaning":  [
+                        "early",
+                        "soon",
+                        "quickly"
+                    ],
+        "pronunciation":  "はやく"
+    },
+    {
+        "word":  "明るい",
+        "meaning":  [
+                        "bright",
+                        "colorful"
+                    ],
+        "pronunciation":  "あかるい"
+    },
+    {
+        "word":  "明後日",
+        "meaning":  [
+                        "day after tomorrow"
+                    ],
+        "pronunciation":  "あさって"
+    },
+    {
+        "word":  "明日",
+        "meaning":  [
+                        "tomorrow"
+                    ],
+        "pronunciation":  "あした"
+    },
+    {
+        "word":  "映画",
+        "meaning":  [
+                        "movie",
+                        "film"
+                    ],
+        "pronunciation":  "えいが"
+    },
+    {
+        "word":  "映画館",
+        "meaning":  [
+                        "movie theater",
+                        "cinema"
+                    ],
+        "pronunciation":  "えいがかん"
+    },
+    {
+        "word":  "春",
+        "meaning":  [
+                        "spring",
+                        "springtime"
+                    ],
+        "pronunciation":  "はる"
+    },
+    {
+        "word":  "昨日",
+        "meaning":  [
+                        "yesterday"
+                    ],
+        "pronunciation":  "きのう"
+    },
+    {
+        "word":  "昼",
+        "meaning":  [
+                        "noon",
+                        "midday"
+                    ],
+        "pronunciation":  "ひる"
+    },
+    {
+        "word":  "昼ご飯",
+        "meaning":  [
+                        "lunch",
+                        "midday meal"
+                    ],
+        "pronunciation":  "ひるごはん"
+    },
+    {
+        "word":  "時々",
+        "meaning":  [
+                        "sometimes",
+                        "at times"
+                    ],
+        "pronunciation":  "ときどき"
+    },
+    {
+        "word":  "時計",
+        "meaning":  [
+                        "watch",
+                        "clock"
+                    ],
+        "pronunciation":  "とけい"
+    },
+    {
+        "word":  "時間",
+        "meaning":  [
+                        "time",
+                        "hours"
+                    ],
+        "pronunciation":  "じかん"
+    },
+    {
+        "word":  "晩ご飯",
+        "meaning":  [
+                        "dinner"
+                    ],
+        "pronunciation":  "ばんごはん"
+    },
+    {
+        "word":  "晴れる",
+        "meaning":  [
+                        "to clear up"
+                    ],
+        "pronunciation":  "はれる"
+    },
+    {
+        "word":  "暇",
+        "meaning":  [
+                        "spare time",
+                        "free time"
+                    ],
+        "pronunciation":  "ひま"
+    },
+    {
+        "word":  "暑い",
+        "meaning":  [
+                        "hot"
+                    ],
+        "pronunciation":  "あつい"
+    },
+    {
+        "word":  "暖かい",
+        "meaning":  [
+                        "warm",
+                        "mild"
+                    ],
+        "pronunciation":  "あたたかい"
+    },
+    {
+        "word":  "暗い",
+        "meaning":  [
+                        "dark",
+                        "gloomy"
+                    ],
+        "pronunciation":  "くらい"
+    },
+    {
+        "word":  "曇り",
+        "meaning":  [
+                        "cloudiness",
+                        "cloudy weather"
+                    ],
+        "pronunciation":  "くもり"
+    },
+    {
+        "word":  "曲がる",
+        "meaning":  [
+                        "to bend",
+                        "to curve"
+                    ],
+        "pronunciation":  "まがる"
+    },
+    {
+        "word":  "書く",
+        "meaning":  [
+                        "to write",
+                        "to compose"
+                    ],
+        "pronunciation":  "かく"
+    },
+    {
+        "word":  "月曜日",
+        "meaning":  [
+                        "Monday"
+                    ],
+        "pronunciation":  "げつようび"
+    },
+    {
+        "word":  "有る",
+        "meaning":  [
+                        "to be",
+                        "to exist"
+                    ],
+        "pronunciation":  "ある"
+    },
+    {
+        "word":  "有名",
+        "meaning":  [
+                        "famous"
+                    ],
+        "pronunciation":  "ゆうめい"
+    },
+    {
+        "word":  "服",
+        "meaning":  [
+                        "clothes"
+                    ],
+        "pronunciation":  "ふく"
+    },
+    {
+        "word":  "朝",
+        "meaning":  [
+                        "morning"
+                    ],
+        "pronunciation":  "あさ"
+    },
+    {
+        "word":  "朝ご飯",
+        "meaning":  [
+                        "breakfast"
+                    ],
+        "pronunciation":  "あさごはん"
+    },
+    {
+        "word":  "木",
+        "meaning":  [
+                        "tree"
+                    ],
+        "pronunciation":  "き"
+    },
+    {
+        "word":  "木曜日",
+        "meaning":  [
+                        "Thursday"
+                    ],
+        "pronunciation":  "もくようび"
+    },
+    {
+        "word":  "本",
+        "meaning":  [
+                        "book"
+                    ],
+        "pronunciation":  "ほん"
+    },
+    {
+        "word":  "本当",
+        "meaning":  [
+                        "truth",
+                        "reality"
+                    ],
+        "pronunciation":  "ほんとう"
+    },
+    {
+        "word":  "本棚",
+        "meaning":  [
+                        "bookshelf",
+                        "bookcase"
+                    ],
+        "pronunciation":  "ほんだな"
+    },
+    {
+        "word":  "机",
+        "meaning":  [
+                        "desk"
+                    ],
+        "pronunciation":  "つくえ"
+    },
+    {
+        "word":  "村",
+        "meaning":  [
+                        "village"
+                    ],
+        "pronunciation":  "むら"
+    },
+    {
+        "word":  "来る",
+        "meaning":  [
+                        "to come"
+                    ],
+        "pronunciation":  "くる"
+    },
+    {
+        "word":  "来年",
+        "meaning":  [
+                        "next year"
+                    ],
+        "pronunciation":  "らいねん"
+    },
+    {
+        "word":  "来月",
+        "meaning":  [
+                        "next month"
+                    ],
+        "pronunciation":  "らいげつ"
+    },
+    {
+        "word":  "来週",
+        "meaning":  [
+                        "next week"
+                    ],
+        "pronunciation":  "らいしゅう"
+    },
+    {
+        "word":  "東",
+        "meaning":  [
+                        "east"
+                    ],
+        "pronunciation":  "ひがし"
+    },
+    {
+        "word":  "果物",
+        "meaning":  [
+                        "fruit"
+                    ],
+        "pronunciation":  "くだもの"
+    },
+    {
+        "word":  "椅子",
+        "meaning":  [
+                        "chair",
+                        "stool"
+                    ],
+        "pronunciation":  "いす"
+    },
+    {
+        "word":  "楽しい",
+        "meaning":  [
+                        "enjoyable",
+                        "fun"
+                    ],
+        "pronunciation":  "たのしい"
+    },
+    {
+        "word":  "横",
+        "meaning":  [
+                        "horizontal",
+                        "beside"
+                    ],
+        "pronunciation":  "よこ"
+    },
+    {
+        "word":  "橋",
+        "meaning":  [
+                        "bridge"
+                    ],
+        "pronunciation":  "はし"
+    },
+    {
+        "word":  "次",
+        "meaning":  [
+                        "next",
+                        "following"
+                    ],
+        "pronunciation":  "つぎ"
+    },
+    {
+        "word":  "歌",
+        "meaning":  [
+                        "song"
+                    ],
+        "pronunciation":  "うた"
+    },
+    {
+        "word":  "歌う",
+        "meaning":  [
+                        "to sing"
+                    ],
+        "pronunciation":  "うたう"
+    },
+    {
+        "word":  "止まる",
+        "meaning":  [
+                        "to stop"
+                    ],
+        "pronunciation":  "とまる"
+    },
+    {
+        "word":  "歩く",
+        "meaning":  [
+                        "to walk"
+                    ],
+        "pronunciation":  "あるく"
+    },
+    {
+        "word":  "歯",
+        "meaning":  [
+                        "tooth"
+                    ],
+        "pronunciation":  "は"
+    },
+    {
+        "word":  "歳",
+        "meaning":  [
+                        "years old"
+                    ],
+        "pronunciation":  "さい"
+    },
+    {
+        "word":  "死ぬ",
+        "meaning":  [
+                        "to die",
+                        "to pass away"
+                    ],
+        "pronunciation":  "しぬ"
+    },
+    {
+        "word":  "段々",
+        "meaning":  [
+                        "gradually",
+                        "little by little"
+                    ],
+        "pronunciation":  "だんだん"
+    },
+    {
+        "word":  "母",
+        "meaning":  [
+                        "mother"
+                    ],
+        "pronunciation":  "はは"
+    },
+    {
+        "word":  "毎年",
+        "meaning":  [
+                        "every year",
+                        "yearly"
+                    ],
+        "pronunciation":  "まいとし"
+    },
+    {
+        "word":  "毎日",
+        "meaning":  [
+                        "every day"
+                    ],
+        "pronunciation":  "まいにち"
+    },
+    {
+        "word":  "毎晩",
+        "meaning":  [
+                        "every night"
+                    ],
+        "pronunciation":  "まいばん"
+    },
+    {
+        "word":  "毎月",
+        "meaning":  [
+                        "every month"
+                    ],
+        "pronunciation":  "まいつき"
+    },
+    {
+        "word":  "毎朝",
+        "meaning":  [
+                        "every morning"
+                    ],
+        "pronunciation":  "まいあさ"
+    },
+    {
+        "word":  "毎週",
+        "meaning":  [
+                        "every week"
+                    ],
+        "pronunciation":  "まいしゅう"
+    },
+    {
+        "word":  "水",
+        "meaning":  [
+                        "water"
+                    ],
+        "pronunciation":  "みず"
+    },
+    {
+        "word":  "水曜日",
+        "meaning":  [
+                        "Wednesday"
+                    ],
+        "pronunciation":  "すいようび"
+    },
+    {
+        "word":  "汚い",
+        "meaning":  [
+                        "dirty",
+                        "filthy"
+                    ],
+        "pronunciation":  "きたない"
+    },
+    {
+        "word":  "池",
+        "meaning":  [
+                        "pond"
+                    ],
+        "pronunciation":  "いけ"
+    },
+    {
+        "word":  "沢山",
+        "meaning":  [
+                        "a lot",
+                        "plenty",
+                        "many"
+                    ],
+        "pronunciation":  "たくさん"
+    },
+    {
+        "word":  "泳ぐ",
+        "meaning":  [
+                        "to swim"
+                    ],
+        "pronunciation":  "およぐ"
+    },
+    {
+        "word":  "洋服",
+        "meaning":  [
+                        "Western-style clothes"
+                    ],
+        "pronunciation":  "ようふく"
+    },
+    {
+        "word":  "洗う",
+        "meaning":  [
+                        "to wash"
+                    ],
+        "pronunciation":  "あらう"
+    },
+    {
+        "word":  "洗濯",
+        "meaning":  [
+                        "washing",
+                        "laundry"
+                    ],
+        "pronunciation":  "せんたく"
+    },
+    {
+        "word":  "浴びる",
+        "meaning":  [
+                        "to take a shower"
+                    ],
+        "pronunciation":  "あびる"
+    },
+    {
+        "word":  "海",
+        "meaning":  [
+                        "sea",
+                        "ocean"
+                    ],
+        "pronunciation":  "うみ"
+    },
+    {
+        "word":  "消える",
+        "meaning":  [
+                        "to go out",
+                        "to vanish"
+                    ],
+        "pronunciation":  "きえる"
+    },
+    {
+        "word":  "消す",
+        "meaning":  [
+                        "to erase",
+                        "to delete"
+                    ],
+        "pronunciation":  "けす"
+    },
+    {
+        "word":  "涼しい",
+        "meaning":  [
+                        "cool",
+                        "refreshing"
+                    ],
+        "pronunciation":  "すずしい"
+    },
+    {
+        "word":  "渡す",
+        "meaning":  [
+                        "to hand over",
+                        "to hand in"
+                    ],
+        "pronunciation":  "わたす"
+    },
+    {
+        "word":  "渡る",
+        "meaning":  [
+                        "to cross over"
+                    ],
+        "pronunciation":  "わたる"
+    },
+    {
+        "word":  "漢字",
+        "meaning":  [
+                        "Chinese characters"
+                    ],
+        "pronunciation":  "かんじ"
+    },
+    {
+        "word":  "火",
+        "meaning":  [
+                        "fire",
+                        "flame"
+                    ],
+        "pronunciation":  "ひ"
+    },
+    {
+        "word":  "灰皿",
+        "meaning":  [
+                        "ashtray"
+                    ],
+        "pronunciation":  "はいざら"
+    },
+    {
+        "word":  "無くす",
+        "meaning":  [
+                        "to lose something"
+                    ],
+        "pronunciation":  "なくす"
+    },
+    {
+        "word":  "煙草",
+        "meaning":  [
+                        "tabacco",
+                        "cigarette"
+                    ],
+        "pronunciation":  "たばこ"
+    },
+    {
+        "word":  "煩い",
+        "meaning":  [
+                        "noisy",
+                        "loud"
+                    ],
+        "pronunciation":  "うるさい"
+    },
+    {
+        "word":  "熱い",
+        "meaning":  [
+                        "hot"
+                    ],
+        "pronunciation":  "あつい"
+    },
+    {
+        "word":  "父",
+        "meaning":  [
+                        "father"
+                    ],
+        "pronunciation":  "ちち"
+    },
+    {
+        "word":  "牛乳",
+        "meaning":  [
+                        "milk"
+                    ],
+        "pronunciation":  "ぎゅうにゅう"
+    },
+    {
+        "word":  "牛肉",
+        "meaning":  [
+                        "beef"
+                    ],
+        "pronunciation":  "ぎゅうにく"
+    },
+    {
+        "word":  "犬",
+        "meaning":  [
+                        "dog"
+                    ],
+        "pronunciation":  "いぬ"
+    },
+    {
+        "word":  "狭い",
+        "meaning":  [
+                        "narrow",
+                        "confined"
+                    ],
+        "pronunciation":  "せまい"
+    },
+    {
+        "word":  "猫",
+        "meaning":  [
+                        "cat"
+                    ],
+        "pronunciation":  "ねこ"
+    },
+    {
+        "word":  "玄関",
+        "meaning":  [
+                        "entranceway",
+                        "entrance hall"
+                    ],
+        "pronunciation":  "げんかん"
+    },
+    {
+        "word":  "甘い",
+        "meaning":  [
+                        "sweet"
+                    ],
+        "pronunciation":  "あまい"
+    },
+    {
+        "word":  "生まれる",
+        "meaning":  [
+                        "to be born"
+                    ],
+        "pronunciation":  "うまれる"
+    },
+    {
+        "word":  "生徒",
+        "meaning":  [
+                        "pupil"
+                    ],
+        "pronunciation":  "せいと"
+    },
+    {
+        "word":  "男",
+        "meaning":  [
+                        "man",
+                        "male"
+                    ],
+        "pronunciation":  "おとこ"
+    },
+    {
+        "word":  "男の子",
+        "meaning":  [
+                        "boy"
+                    ],
+        "pronunciation":  "おとこのこ"
+    },
+    {
+        "word":  "町",
+        "meaning":  [
+                        "town",
+                        "block"
+                    ],
+        "pronunciation":  "まち"
+    },
+    {
+        "word":  "留学生",
+        "meaning":  [
+                        "overseas student"
+                    ],
+        "pronunciation":  "りゅうがくせい"
+    },
+    {
+        "word":  "番号",
+        "meaning":  [
+                        "number"
+                    ],
+        "pronunciation":  "ばんごう"
+    },
+    {
+        "word":  "疲れる",
+        "meaning":  [
+                        "to get tired"
+                    ],
+        "pronunciation":  "つかれる"
+    },
+    {
+        "word":  "病気",
+        "meaning":  [
+                        "illness",
+                        "disease"
+                    ],
+        "pronunciation":  "びょうき"
+    },
+    {
+        "word":  "病院",
+        "meaning":  [
+                        "hospital"
+                    ],
+        "pronunciation":  "びょういん"
+    },
+    {
+        "word":  "痛い",
+        "meaning":  [
+                        "painful",
+                        "sore"
+                    ],
+        "pronunciation":  "いたい"
+    },
+    {
+        "word":  "登る",
+        "meaning":  [
+                        "to ascend",
+                        "to go up"
+                    ],
+        "pronunciation":  "のぼる"
+    },
+    {
+        "word":  "白い",
+        "meaning":  [
+                        "white"
+                    ],
+        "pronunciation":  "しろい"
+    },
+    {
+        "word":  "百",
+        "meaning":  [
+                        "hundred"
+                    ],
+        "pronunciation":  "ひゃく"
+    },
+    {
+        "word":  "皆",
+        "meaning":  [
+                        "all",
+                        "everyone"
+                    ],
+        "pronunciation":  "みんな"
+    },
+    {
+        "word":  "目",
+        "meaning":  [
+                        "eye",
+                        "eyeball"
+                    ],
+        "pronunciation":  "め"
+    },
+    {
+        "word":  "眼鏡",
+        "meaning":  [
+                        "spectacles",
+                        "glasses"
+                    ],
+        "pronunciation":  "めがね"
+    },
+    {
+        "word":  "着く",
+        "meaning":  [
+                        "to arrive at",
+                        "to reach"
+                    ],
+        "pronunciation":  "つく"
+    },
+    {
+        "word":  "着る",
+        "meaning":  [
+                        "to wear",
+                        "to put on"
+                    ],
+        "pronunciation":  "きる"
+    },
+    {
+        "word":  "知る",
+        "meaning":  [
+                        "to be aware of",
+                        "to know"
+                    ],
+        "pronunciation":  "しる"
+    },
+    {
+        "word":  "短い",
+        "meaning":  [
+                        "short"
+                    ],
+        "pronunciation":  "みじかい"
+    },
+    {
+        "word":  "石鹸",
+        "meaning":  [
+                        "soap"
+                    ],
+        "pronunciation":  "せっけん"
+    },
+    {
+        "word":  "砂糖",
+        "meaning":  [
+                        "sugar"
+                    ],
+        "pronunciation":  "さとう"
+    },
+    {
+        "word":  "磨く",
+        "meaning":  [
+                        "to polish",
+                        "to shine"
+                    ],
+        "pronunciation":  "みがく"
+    },
+    {
+        "word":  "私",
+        "meaning":  [
+                        "I",
+                        "me"
+                    ],
+        "pronunciation":  "わたし"
+    },
+    {
+        "word":  "秋",
+        "meaning":  [
+                        "autumn"
+                    ],
+        "pronunciation":  "あき"
+    },
+    {
+        "word":  "空",
+        "meaning":  [
+                        "emptiness",
+                        "vacuum",
+                        "blank"
+                    ],
+        "pronunciation":  "そら"
+    },
+    {
+        "word":  "窓",
+        "meaning":  [
+                        "window"
+                    ],
+        "pronunciation":  "まど"
+    },
+    {
+        "word":  "立つ",
+        "meaning":  [
+                        "to stand",
+                        "to rise"
+                    ],
+        "pronunciation":  "たつ"
+    },
+    {
+        "word":  "答える",
+        "meaning":  [
+                        "to answer",
+                        "to reply"
+                    ],
+        "pronunciation":  "こたえる"
+    },
+    {
+        "word":  "箱",
+        "meaning":  [
+                        "box",
+                        "chest"
+                    ],
+        "pronunciation":  "はこ"
+    },
+    {
+        "word":  "箸",
+        "meaning":  [
+                        "chopsticks"
+                    ],
+        "pronunciation":  "はし"
+    },
+    {
+        "word":  "紅茶",
+        "meaning":  [
+                        "black tea"
+                    ],
+        "pronunciation":  "こうちゃ"
+    },
+    {
+        "word":  "紙",
+        "meaning":  [
+                        "paper"
+                    ],
+        "pronunciation":  "かみ"
+    },
+    {
+        "word":  "終わる",
+        "meaning":  [
+                        "to finish",
+                        "to end"
+                    ],
+        "pronunciation":  "おわる"
+    },
+    {
+        "word":  "結婚",
+        "meaning":  [
+                        "marriage"
+                    ],
+        "pronunciation":  "けっこん"
+    },
+    {
+        "word":  "結構",
+        "meaning":  [
+                        "spenlid",
+                        "nice",
+                        "okay"
+                    ],
+        "pronunciation":  "けっこう"
+    },
+    {
+        "word":  "絵",
+        "meaning":  [
+                        "picture",
+                        "drawing",
+                        "painting"
+                    ],
+        "pronunciation":  "え"
+    },
+    {
+        "word":  "緑",
+        "meaning":  [
+                        "green"
+                    ],
+        "pronunciation":  "みどり"
+    },
+    {
+        "word":  "締める",
+        "meaning":  [
+                        "to tie",
+                        "to fasten",
+                        "to tighten"
+                    ],
+        "pronunciation":  "しめる"
+    },
+    {
+        "word":  "練習",
+        "meaning":  [
+                        "practice",
+                        "practicing"
+                    ],
+        "pronunciation":  "れんしゅう"
+    },
+    {
+        "word":  "置く",
+        "meaning":  [
+                        "to put",
+                        "to place"
+                    ],
+        "pronunciation":  "おく"
+    },
+    {
+        "word":  "美味しい",
+        "meaning":  [
+                        "delicious",
+                        "tasty"
+                    ],
+        "pronunciation":  "おいしい"
+    },
+    {
+        "word":  "習う",
+        "meaning":  [
+                        "to be taught",
+                        "to learn"
+                    ],
+        "pronunciation":  "ならう"
+    },
+    {
+        "word":  "耳",
+        "meaning":  [
+                        "ear"
+                    ],
+        "pronunciation":  "みみ"
+    },
+    {
+        "word":  "聞く",
+        "meaning":  [
+                        "to hear",
+                        "to listen"
+                    ],
+        "pronunciation":  "きく"
+    },
+    {
+        "word":  "肉",
+        "meaning":  [
+                        "flesh",
+                        "meat"
+                    ],
+        "pronunciation":  "にく"
+    },
+    {
+        "word":  "背",
+        "meaning":  [
+                        "height",
+                        "stature"
+                    ],
+        "pronunciation":  "せ"
+    },
+    {
+        "word":  "背広",
+        "meaning":  [
+                        "business suit"
+                    ],
+        "pronunciation":  "せびろ"
+    },
+    {
+        "word":  "脱ぐ",
+        "meaning":  [
+                        "to take off"
+                    ],
+        "pronunciation":  "ぬぐ"
+    },
+    {
+        "word":  "自分",
+        "meaning":  [
+                        "myself",
+                        "yourself",
+                        "oneself"
+                    ],
+        "pronunciation":  "じぶん"
+    },
+    {
+        "word":  "自動車",
+        "meaning":  [
+                        "automobile"
+                    ],
+        "pronunciation":  "じどうしゃ"
+    },
+    {
+        "word":  "自転車",
+        "meaning":  [
+                        "bicycle"
+                    ],
+        "pronunciation":  "じてんしゃ"
+    },
+    {
+        "word":  "色",
+        "meaning":  [
+                        "color",
+                        "complexion"
+                    ],
+        "pronunciation":  "いろ"
+    },
+    {
+        "word":  "色々",
+        "meaning":  [
+                        "various"
+                    ],
+        "pronunciation":  "いろいろ"
+    },
+    {
+        "word":  "花",
+        "meaning":  [
+                        "flower",
+                        "blossom"
+                    ],
+        "pronunciation":  "はな"
+    },
+    {
+        "word":  "若い",
+        "meaning":  [
+                        "young",
+                        "youthful"
+                    ],
+        "pronunciation":  "わかい"
+    },
+    {
+        "word":  "英語",
+        "meaning":  [
+                        "English"
+                    ],
+        "pronunciation":  "えいご"
+    },
+    {
+        "word":  "茶碗",
+        "meaning":  [
+                        "rice bowl",
+                        "tea cup"
+                    ],
+        "pronunciation":  "ちゃわん"
+    },
+    {
+        "word":  "茶色",
+        "meaning":  [
+                        "light brown"
+                    ],
+        "pronunciation":  "ちゃいろ"
+    },
+    {
+        "word":  "荷物",
+        "meaning":  [
+                        "luggage",
+                        "baggage"
+                    ],
+        "pronunciation":  "にもつ"
+    },
+    {
+        "word":  "葉書",
+        "meaning":  [
+                        "postcard"
+                    ],
+        "pronunciation":  "はがき"
+    },
+    {
+        "word":  "薄い",
+        "meaning":  [
+                        "thin",
+                        "pale",
+                        "light"
+                    ],
+        "pronunciation":  "うすい"
+    },
+    {
+        "word":  "薬",
+        "meaning":  [
+                        "medicine"
+                    ],
+        "pronunciation":  "くすり"
+    },
+    {
+        "word":  "行く",
+        "meaning":  [
+                        "to go"
+                    ],
+        "pronunciation":  "いく"
+    },
+    {
+        "word":  "西",
+        "meaning":  [
+                        "west"
+                    ],
+        "pronunciation":  "にし"
+    },
+    {
+        "word":  "要る",
+        "meaning":  [
+                        "to need",
+                        "to want"
+                    ],
+        "pronunciation":  "いる"
+    },
+    {
+        "word":  "見せる",
+        "meaning":  [
+                        "to show",
+                        "to display"
+                    ],
+        "pronunciation":  "みせる"
+    },
+    {
+        "word":  "見る",
+        "meaning":  [
+                        "to see",
+                        "to look",
+                        "to watch"
+                    ],
+        "pronunciation":  "みる"
+    },
+    {
+        "word":  "覚える",
+        "meaning":  [
+                        "to memorize",
+                        "to remember"
+                    ],
+        "pronunciation":  "おぼえる"
+    },
+    {
+        "word":  "角",
+        "meaning":  [
+                        "horn"
+                    ],
+        "pronunciation":  "かど"
+    },
+    {
+        "word":  "言う",
+        "meaning":  [
+                        "to say",
+                        "to utter"
+                    ],
+        "pronunciation":  "いう"
+    },
+    {
+        "word":  "言葉",
+        "meaning":  [
+                        "language",
+                        "dialect"
+                    ],
+        "pronunciation":  "ことば"
+    },
+    {
+        "word":  "詰まらない",
+        "meaning":  [
+                        "dull",
+                        "uninteresting"
+                    ],
+        "pronunciation":  "つまらない"
+    },
+    {
+        "word":  "話",
+        "meaning":  [
+                        "talk",
+                        "speech",
+                        "chat"
+                    ],
+        "pronunciation":  "はなし"
+    },
+    {
+        "word":  "話す",
+        "meaning":  [
+                        "to talk",
+                        "to speak"
+                    ],
+        "pronunciation":  "はなす"
+    },
+    {
+        "word":  "誕生日",
+        "meaning":  [
+                        "birthday"
+                    ],
+        "pronunciation":  "たんじょうび"
+    },
+    {
+        "word":  "読む",
+        "meaning":  [
+                        "to read"
+                    ],
+        "pronunciation":  "よむ"
+    },
+    {
+        "word":  "誰",
+        "meaning":  [
+                        "who"
+                    ],
+        "pronunciation":  "だれ"
+    },
+    {
+        "word":  "誰か",
+        "meaning":  [
+                        "someone",
+                        "somebody"
+                    ],
+        "pronunciation":  "だれか"
+    },
+    {
+        "word":  "警官",
+        "meaning":  [
+                        "police officer",
+                        "policeman"
+                    ],
+        "pronunciation":  "けいかん"
+    },
+    {
+        "word":  "豚肉",
+        "meaning":  [
+                        "pork"
+                    ],
+        "pronunciation":  "ぶたにく"
+    },
+    {
+        "word":  "財布",
+        "meaning":  [
+                        "purse",
+                        "wallet"
+                    ],
+        "pronunciation":  "さいふ"
+    },
+    {
+        "word":  "買う",
+        "meaning":  [
+                        "to buy",
+                        "to purchase"
+                    ],
+        "pronunciation":  "かう"
+    },
+    {
+        "word":  "買物",
+        "meaning":  [
+                        "shopping"
+                    ],
+        "pronunciation":  "かいもの"
+    },
+    {
+        "word":  "貸す",
+        "meaning":  [
+                        "to lend",
+                        "to loan"
+                    ],
+        "pronunciation":  "かす"
+    },
+    {
+        "word":  "貼る",
+        "meaning":  [
+                        "to stick",
+                        "to paste"
+                    ],
+        "pronunciation":  "はる"
+    },
+    {
+        "word":  "賑やか",
+        "meaning":  [
+                        "bustling",
+                        "busy",
+                        "lively"
+                    ],
+        "pronunciation":  "にぎやか"
+    },
+    {
+        "word":  "質問",
+        "meaning":  [
+                        "question",
+                        "inquiry"
+                    ],
+        "pronunciation":  "しつもん"
+    },
+    {
+        "word":  "赤い",
+        "meaning":  [
+                        "red"
+                    ],
+        "pronunciation":  "あかい"
+    },
+    {
+        "word":  "走る",
+        "meaning":  [
+                        "to run"
+                    ],
+        "pronunciation":  "はしる"
+    },
+    {
+        "word":  "起きる",
+        "meaning":  [
+                        "to get up",
+                        "to rise"
+                    ],
+        "pronunciation":  "おきる"
+    },
+    {
+        "word":  "足",
+        "meaning":  [
+                        "foot",
+                        "leg"
+                    ],
+        "pronunciation":  "あし"
+    },
+    {
+        "word":  "車",
+        "meaning":  [
+                        "car",
+                        "automobile"
+                    ],
+        "pronunciation":  "くるま"
+    },
+    {
+        "word":  "軽い",
+        "meaning":  [
+                        "light"
+                    ],
+        "pronunciation":  "かるい"
+    },
+    {
+        "word":  "辛い",
+        "meaning":  [
+                        "painful",
+                        "bitter"
+                    ],
+        "pronunciation":  "からい"
+    },
+    {
+        "word":  "辞書",
+        "meaning":  [
+                        "dictionary"
+                    ],
+        "pronunciation":  "じしょ"
+    },
+    {
+        "word":  "辺",
+        "meaning":  [
+                        "area",
+                        "vicinity"
+                    ],
+        "pronunciation":  "へん"
+    },
+    {
+        "word":  "近い",
+        "meaning":  [
+                        "near",
+                        "close"
+                    ],
+        "pronunciation":  "ちかい"
+    },
+    {
+        "word":  "近く",
+        "meaning":  [
+                        "near",
+                        "neighborhood"
+                    ],
+        "pronunciation":  "ちかく"
+    },
+    {
+        "word":  "返す",
+        "meaning":  [
+                        "to return"
+                    ],
+        "pronunciation":  "かえす"
+    },
+    {
+        "word":  "速い",
+        "meaning":  [
+                        "fast",
+                        "quick"
+                    ],
+        "pronunciation":  "はやい"
+    },
+    {
+        "word":  "遅い",
+        "meaning":  [
+                        "slow",
+                        "late"
+                    ],
+        "pronunciation":  "おそい"
+    },
+    {
+        "word":  "遊ぶ",
+        "meaning":  [
+                        "to play"
+                    ],
+        "pronunciation":  "あそぶ"
+    },
+    {
+        "word":  "道",
+        "meaning":  [
+                        "road",
+                        "street",
+                        "way"
+                    ],
+        "pronunciation":  "みち"
+    },
+    {
+        "word":  "違う",
+        "meaning":  [
+                        "to differ"
+                    ],
+        "pronunciation":  "ちがう"
+    },
+    {
+        "word":  "遠い",
+        "meaning":  [
+                        "far",
+                        "distant"
+                    ],
+        "pronunciation":  "とおい"
+    },
+    {
+        "word":  "部屋",
+        "meaning":  [
+                        "room",
+                        "chamber"
+                    ],
+        "pronunciation":  "へや"
+    },
+    {
+        "word":  "郵便局",
+        "meaning":  [
+                        "post office"
+                    ],
+        "pronunciation":  "ゆうびんきょく"
+    },
+    {
+        "word":  "酒",
+        "meaning":  [
+                        "alcohol",
+                        "sake"
+                    ],
+        "pronunciation":  "さけ"
+    },
+    {
+        "word":  "醤油",
+        "meaning":  [
+                        "soy sauce"
+                    ],
+        "pronunciation":  "しょうゆ"
+    },
+    {
+        "word":  "重い",
+        "meaning":  [
+                        "heavy",
+                        "weighty"
+                    ],
+        "pronunciation":  "おもい"
+    },
+    {
+        "word":  "野菜",
+        "meaning":  [
+                        "vegetable"
+                    ],
+        "pronunciation":  "やさい"
+    },
+    {
+        "word":  "金曜日",
+        "meaning":  [
+                        "Friday"
+                    ],
+        "pronunciation":  "きんようび"
+    },
+    {
+        "word":  "鉛筆",
+        "meaning":  [
+                        "pencil"
+                    ],
+        "pronunciation":  "えんぴつ"
+    }
+]
