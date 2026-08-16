@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary List</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="app-page">
+    <div class="container">
+        <header class="header">
+            <div class="header-nav">
+                <a href="vocabulary.html" class="back-link">← Back to Levels</a>
+                <h1 id="level-title">Loading...</h1>
+            </div>
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Search vocabulary...">
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div id="loading-spinner" class="spinner">Loading...</div>
+            <div id="vocab-list" class="vocab-grid"></div>
+        </main>
+    </div>
+    
+    <template id="vocab-card-template">
+        <div class="vocab-card">
+            <div class="vocab-word"></div>
+            <div class="vocab-pronunciation"></div>
+            <div class="vocab-meaning"></div>
+        </div>
+    </template>
+
+    <script src="js/vocab.js"></script>
+</body>
+</html>

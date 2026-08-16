@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JLPT N5 Vocabulary | JLPT Study</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="data/n5.js"></script>
+</head>
+<body>
+  <header class="vocab-header">
+    <a href="vocabulary.html" class="back-link">&larr; Back</a>
+    <div class="vocab-header-title">
+      <span class="level-badge-small badge-n5">N5</span>
+      <h1>JLPT N5 Vocabulary</h1>
+    </div>
+    <div class="vocab-count" id="vocab-total">800 words</div>
+  </header>
+  
+  <div class="search-bar">
+    <input type="text" id="search-input" placeholder="Search kanji, reading, romaji or meaning...">
+  </div>
+  
+  <div class="pos-filters">
+    <button class="filter-btn active">All</button>
+    <button class="filter-btn">Noun</button>
+    <button class="filter-btn">Verb</button>
+    <button class="filter-btn">Adjective</button>
+    <button class="filter-btn">Adverb</button>
+    <button class="filter-btn">Expression</button>
+    <button class="filter-btn">Other</button>
+  </div>
+
+  <div class="stats-bar" id="stats-bar"></div>
+  
+  <main class="card-grid" id="vocab-grid"></main>
+  <div id="no-results">No words found.</div>
+  
+  <script src="js/vocab.js"></script>
+</body>
+</html>

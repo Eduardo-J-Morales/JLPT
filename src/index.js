@@ -7,18 +7,14 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// Routes
-app.get('/', (req, res) => {
-  res.json({
-    message: 'Welcome to the Express.js API!',
-    status: 'OK',
-    timestamp: new Date().toISOString(),
-  });
-});
+const path = require('path');
 
-app.get('/health', (req, res) => {
-  res.json({ status: 'healthy' });
-});
+// Serve static files from the public directory
+app.use(express.static(path.join(__dirname, '../public')));
+
+// Fallback to index.html for SPA-like behavior if needed
+// Or just let static handle it
+
 
 // 404 handler
 app.use((req, res) => {

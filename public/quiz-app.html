@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Challenge</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="app-page quiz-mode">
+    <div class="container">
+        <header class="header">
+            <div class="header-nav">
+                <a href="quiz.html" class="back-link">← Quit</a>
+                <h1 id="level-title">Loading Challenge...</h1>
+            </div>
+            <div class="score-display">
+                Score: <span id="score">0</span> / <span id="total">0</span>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div id="loading-spinner" class="spinner">Loading...</div>
+            <div id="quiz-container" class="hidden">
+                <div class="quiz-card">
+                    <div id="quiz-word" class="quiz-word"></div>
+                    <div class="options-grid" id="options-grid"></div>
+                </div>
+                <div id="feedback" class="feedback-msg hidden"></div>
+                <button id="next-btn" class="btn hidden">Next Question</button>
+            </div>
+            <div id="results-container" class="results-card hidden">
+                <h2>Quiz Complete!</h2>
+                <p>Your Final Score: <span id="final-score">0</span> / <span id="final-total">0</span></p>
+                <div class="actions">
+                    <button id="restart-btn" class="btn primary-btn">Try Again</button>
+                    <a href="quiz.html" class="btn secondary-btn">Back to Levels</a>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="js/quiz.js"></script>
+</body>
+</html>
